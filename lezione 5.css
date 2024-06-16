@@ -1,0 +1,68 @@
+body{
+  background-image: url('background.jpg');
+}
+
+.Contenitore{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  font-family: Arial;
+  padding: 5%;
+  }
+
+header, nav{
+  text-align: center;
+}
+
+.Logo{
+  width: 25%;
+}
+
+.Navigatore{
+  color: lime;
+}
+
+.Titolo{
+  font-size: 30px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.Pulsanti{
+  background-color: lime;
+  padding: 15px;
+  display: block;
+}
+
+.Monopattino{
+  text-align: left;
+  color: white;
+  font-size: 20px;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.Carica1{
+  background-color: #f3b23c;
+  width: 35%;
+  padding: 15px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.Carica2{
+  background-color: #0abd0a;
+  width: 58%;
+  padding: 15px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.Carica3{
+  background-color: #b93333;
+  width: 14%;
+  padding: 15px;
+  border-radius: 5px 5px 5px 5px;
+}
